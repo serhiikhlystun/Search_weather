@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Search_weather/static/css/main.69b38977.css",
+    "main.js": "/Search_weather/static/js/main.aef52229.js",
+    "static/media/bg_ocean.jpg": "/Search_weather/static/media/bg_ocean.ef277657b864477a09f6.jpg",
+    "index.html": "/Search_weather/index.html",
+    "main.69b38977.css.map": "/Search_weather/static/css/main.69b38977.css.map",
+    "main.aef52229.js.map": "/Search_weather/static/js/main.aef52229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b38977.css",
+    "static/js/main.aef52229.js"
+  ]
+}
